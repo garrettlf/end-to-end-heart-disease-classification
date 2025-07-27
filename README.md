@@ -11,7 +11,7 @@ The goal is to answer the following question:
 The dataset is sourced from the Cleveland heart disease dataset, available in the UCI Machine Learning Repository. It includes various medical attributes, such as age, sex, blood pressure, and cholesterol levels, along with a target variable indicating the presence of heart disease.
 
 ## **3. Evaluation**
-The success criterion for this project is achieving at least 95% accuracy during the proof-of-concept phase.
+The success criterion in this project is achieving at least 95% accuracy.
 
 ## **4. Features**
 A detailed data dictionary includes attributes such as:
